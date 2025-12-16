@@ -2,6 +2,8 @@
 
 A modern, full-stack note-taking application built with React and Express. Create, read, update, and delete notes with a beautiful UI and powerful backend.
 
+🔗 Live here: https://dev-log-phzk.onrender.com/
+
 ## 🚀 Features
 
 - ✨ Create, edit, and delete notes
